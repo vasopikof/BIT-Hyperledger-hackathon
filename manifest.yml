@@ -1,0 +1,4 @@
+applications:
+- name: ct-test-node
+  random-route: true
+  memory: 128M
